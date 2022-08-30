@@ -1,0 +1,4 @@
+baseURL = 'https://sunsheng.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "hugo-book"
